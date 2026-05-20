@@ -1,2 +1,11 @@
-# Rekomendasi-Buku-DIgital
-web
+
+  # Digital Book Recommendation System
+
+  This is a code bundle for Digital Book Recommendation System. The original project is available at https://www.figma.com/design/prVM1D5dr0LoVifzMJUBaH/Digital-Book-Recommendation-System.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
